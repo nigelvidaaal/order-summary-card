@@ -116,6 +116,7 @@ body {
   width: 320px;
   height: 45px;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .buttons button:hover {
